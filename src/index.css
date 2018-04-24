@@ -1,0 +1,23 @@
+body{
+  background-color: blueviolet;
+  /* margin-right: 300px;
+  margin-left: 300px; */
+  display: flex;
+  padding: 0;
+  font-family: sans-serif;
+}
+.pics{
+  display: inline-grid;
+
+}
+#searchinput{
+  align-items: center;
+
+
+}
+.title{
+  font-family: sans-serif;
+  font-size: 80px;
+  color: rgb(153, 164, 184);
+  
+}
